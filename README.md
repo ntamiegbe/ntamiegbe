@@ -11,7 +11,7 @@
 
 - 📫 Email: **ntamiegbe00@gmail.com**
 
-- ⚡ Fun fact **Un-indented code makes me sick**
+- ⚡ Fun fact **Unindented code makes me sick**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
