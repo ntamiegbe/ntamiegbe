@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 View my portfolio at [https://ntamiegbe.netlify.app/](https://ntamiegbe.netlify.app/)
-
+- 👨‍💻 View my portfolio at [[https://ntami.tech/]
+](https://ntami.tech/)
 - 💬 Ask me about **react, javascript, laravel**
 
 - 📫 Email: **ntamiegbe00@gmail.com**
