@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 View my portfolio at [[https://ntami.tech/]
+- 👨‍💻 View my portfolio at [https://ntami.tech/]
 ](https://ntami.tech/)
 - 💬 Ask me about **react, javascript, laravel**
 
