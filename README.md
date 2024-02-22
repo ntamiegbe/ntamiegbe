@@ -20,6 +20,8 @@
   <a href="https://www.linkedin.com/in/ntami-egbe-39a235209/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ntami egbe" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/ntamiegbe"><img src="https://api.daily.dev/devcards/v2/5sNhA9v1MYrmqyJjlGo3v.png?type=default&r=r57" width="356" alt="Ntami Egbe's Dev Card"/></a>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
